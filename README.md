@@ -7,3 +7,4 @@
 - broadcast traffic
 - purpose of router
 - purpose of switch
+- what is network interface
