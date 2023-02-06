@@ -5,6 +5,4 @@
 - address class (A, B, C, D, E)
 - IP Subnetting
 - broadcast traffic
-- purpose of router
-- purpose of switch
-- what is network interface
+- network interface
