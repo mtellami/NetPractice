@@ -1,4 +1,4 @@
-# point :
+# :
 - TCP/IP addressing
 - ip shemes 
 - ip component (network ID, host ID)
